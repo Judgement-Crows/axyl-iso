@@ -323,6 +323,10 @@ yt-dlp
 ######################
 #### Text Editors ####
 ######################
+exodia-text-editors
+vim-plugins
+neovim-plugins
+exodia-NvChad
 geany
 vim
 
